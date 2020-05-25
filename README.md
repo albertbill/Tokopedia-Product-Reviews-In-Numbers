@@ -1,4 +1,4 @@
-![alt text](img/tokopedia.png)
+![alt text](img/tokopedia2.png)
 
 # Tokopedia in Numbers
 It contains data visualization and data analysis about Tokopedia product reviews.
