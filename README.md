@@ -7,5 +7,5 @@ It contains data visualization and data analysis about Tokopedia product reviews
 - Data Analysis: [.ipynb file]()
 
 ## Tools & References
-- Data Source: [Kaggle - Tokopedia Product Reviews](https://www.kaggle.com/farhan999/tokopedia-product-reviews)
+- Data Source: [Tokopedia Product Reviews](https://www.kaggle.com/farhan999/tokopedia-product-reviews)
 - Data Analytics: Numpy, Pandas, and Plotly
