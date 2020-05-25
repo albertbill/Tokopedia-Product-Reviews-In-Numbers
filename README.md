@@ -3,7 +3,7 @@
 # Tokopedia in Numbers
 It contains data visualization and data analysis about Tokopedia product reviews.
 
-### [View visualization using Tableau]()
+### [View visualization using Tableau](https://public.tableau.com/profile/albert.bill.alroy#!/vizhome/TokopediaReviewsNumbers/Dashboard1)
 
 ## Documentation
 - Data Analysis: [.ipynb file](https://nbviewer.jupyter.org/github/albertbill/Tokopedia-Product-Reviews-In-Number/blob/a01ca8e778c4410dd29d1d44492724d977a323f3/tokopedia.ipynb)
